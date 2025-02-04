@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+	addonSteamAppID			550
+	addontitle				"Sefo L4D2 config"
+	addonversion			1.0.0
+	addontagline			"Embraced by Light."
+	addonauthor				"Sefo"
+	addonSteamGroupName		"Left4Legend"
+	addonauthorSteamID 		"Notasi"
+	addonURL0				"https://Sefo.su"
+	addonDescription		"Sefo L4D2 config."
+	addonDescription_RU		"L4D2 конфиг Сефо."
+	addonContent_Script		1
+}
